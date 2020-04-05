@@ -1,0 +1,9 @@
+{
+  "name": "javascript-typescript-bootstrap",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "description": "Bootstrap for Extreme Startup. '@types/node' is only necessary for TypeScript",
+  "dependencies": {
+    "@types/node": "^13.11.0"
+  }
+}
