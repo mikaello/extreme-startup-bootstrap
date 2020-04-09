@@ -2,4 +2,5 @@
 
 You'll find bootstrap projects for several languages related to JavaScript in this repo:
 
-- [node][./node] (both JavaScript and TypeScript)
+- [node](./node) (JavaScript, but easily changed to TypeScript)
+- [deno](./deno) (TypeScript, but easily changed to JavaScript)
