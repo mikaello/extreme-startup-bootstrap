@@ -4,13 +4,13 @@ If you don't have Deno installed, follow the install guidelines for your platfor
 
 (optional) Install `denon` to get automatic reload on save:
 
-```
+```shell
 deno install denon --allow-read --allow-run https://deno.land/x/denon/denon.ts
 ```
 
 Start server and begin hacking:
 
-```
+```shell
 denon --allow-net server.ts
 
 # or use "deno" if you don't want automatic reload
