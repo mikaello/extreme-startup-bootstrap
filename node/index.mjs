@@ -7,7 +7,9 @@ const server = http.createServer((req, res) => {
 
     console.log(querystring.parse(queryParams).question);
 
-    res.end("Hello world!");
+    /* Insert your parsing code here */
+
+    res.end("Hello World!");
   } else {
     res.statusCode = 404;
     res.end("Unknown parameter");
