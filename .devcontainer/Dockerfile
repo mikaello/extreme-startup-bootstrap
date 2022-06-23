@@ -1,5 +1,9 @@
 FROM mcr.microsoft.com/vscode/devcontainers/typescript-node:latest
 
+# See all containers at https://github.com/microsoft/vscode-dev-containers/tree/main/containers
+
+RUN apt-get install exa fd-find silversearcher-ag
+
 # Credit: https://github.com/btholt/deno-dev-container-example
 ENV DENO_INSTALL=/deno
 RUN mkdir -p /deno \
