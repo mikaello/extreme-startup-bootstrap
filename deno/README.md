@@ -1,6 +1,6 @@
 # Deno server
 
-If you don't have Deno installed, follow the install guidelines for your platform at [deno.land](https://deno.land/)
+If you don't have Deno installed, follow the install guidelines for your platform at [deno.land](https://deno.land/).
 
 (optional) Install `denon` to get automatic reload on save:
 

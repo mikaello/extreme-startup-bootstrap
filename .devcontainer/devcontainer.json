@@ -1,9 +1,9 @@
 {
-    "name": "Extreme startup",
-    "dockerFile": "Dockerfile",
-    "extensions": [
-        "denoland.vscode-deno",
-        "esbenp.prettier-vscode",
-        "vscodevim.vim"
-    ],
+  "name": "Extreme startup",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "denoland.vscode-deno",
+    "esbenp.prettier-vscode",
+    "vscodevim.vim"
+  ]
 }
