@@ -1,10 +1,14 @@
 {
   "name": "Extreme startup",
   "dockerFile": "Dockerfile",
-  "extensions": [
-    "denoland.vscode-deno",
-    "esbenp.prettier-vscode",
-    "vscodevim.vim",
-    "chenglou92.rescript-vscode"
-  ]
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "denoland.vscode-deno",
+        "esbenp.prettier-vscode",
+        "vscodevim.vim",
+        "chenglou92.rescript-vscode"
+      ]
+    }
+  }
 }
