@@ -10,10 +10,10 @@
     "in-source": true
   },
   "suffix": ".bs.js",
-  "bs-dependencies": [],
+  "bs-dependencies": ["rescript-nodejs"],
+  "bsc-flags": ["-open Belt"],
   "warnings": {
     "error": "+101"
   },
-  "namespace": true,
-  "refmt": 3
+  "namespace": true
 }

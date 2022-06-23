@@ -4,6 +4,7 @@
   "extensions": [
     "denoland.vscode-deno",
     "esbenp.prettier-vscode",
-    "vscodevim.vim"
+    "vscodevim.vim",
+    "chenglou92.rescript-vscode"
   ]
 }

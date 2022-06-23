@@ -4,4 +4,4 @@ You'll find bootstrap projects for several languages related to JavaScript in th
 
 - [node](./node) (JavaScript, but easily changed to TypeScript)
 - [deno](./deno) (TypeScript, but easily changed to JavaScript)
-- [BuckleScript](./bucklescript) (ReasonML, but easily changed to OCaml)
+- [ReScript](./rescript) ([ReScript](https://rescript-lang.org/))
