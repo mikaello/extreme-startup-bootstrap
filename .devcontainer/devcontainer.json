@@ -4,6 +4,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "ms-azuretools.vscode-docker",
         "denoland.vscode-deno",
         "esbenp.prettier-vscode",
         "vscodevim.vim",
